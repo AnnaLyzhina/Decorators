@@ -20,7 +20,6 @@ Decorators/
 │   │   ├── bot.py
 │   │   ├── repository.py
 │   │   └── logger.py
-│   ├── requirements.txt
 │   └── README.md
 └── README.md
 ```
