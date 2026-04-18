@@ -17,9 +17,7 @@ Decorators/
 ├── 2.logger_with_path/
 │   └── main.py
 ├── 3.application_logger/
-│   ├── src/
 │   │   ├── bot.py
-│   │   ├── db.py
 │   │   ├── repository.py
 │   │   └── logger.py
 │   ├── requirements.txt
